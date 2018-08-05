@@ -1,0 +1,394 @@
+.toggle{
+    width: 20%;
+    margin: 0 auto;
+    display: block;
+    text-align: right;
+    box-sizing: border-box;
+    padding: 1%;
+    color: #fff;
+    font-size: 20px;
+    display: none;
+    margin-top: 1%;
+}
+.hamburger-menu{
+    display: block;
+    margin: 0 auto;
+}
+#changer{
+    font-size: 30px;
+}
+@media(max-width: 335px){    
+    .information-section article{
+        margin-top: 100% !important;
+    }    
+    .portfolio .btn_3d{
+        width: 40% !important;
+    }
+}
+@media(max-width: 370px){    
+    .search-cart-section{
+        display: none;
+    }
+    .hamburger-menu{
+        float: right;        
+    }
+    #logo{
+        width: 50%;
+    }
+    .toggle{
+        width: 30%;
+        margin-right: 20%;
+        margin-top: 2%;
+    }
+    .main-navigation{
+        width: 51%;
+        margin: 0 auto;
+        display: block;
+    }
+    .active{
+        width: 80%;
+    }
+    .information-section h3{
+        font-size: 90% !important;
+    }
+    .information-section h2{
+        font-size: 100% !important;
+    }
+    .information-section p{
+        font-size: 70% !important;
+    }
+    .btn_3d{
+        font-size: 70%;
+    }
+    .information-section article{
+        margin-top: 60%;
+    }    
+    .portfolio .btn_3d{
+        width: 35% !important;
+        font-size: 80%;
+        padding: 2% 1%;
+    }
+}
+@media (max-width: 400px){
+    .information-section article{
+        margin-top: 50% !important;
+    }     
+    .purchase-now section .btn_3d{
+        width: 55% !important;
+    }  
+    .posts-section .date{
+        font-size: 100%;
+    }  
+    .posts-section .month{
+        font-size: 70%;
+    }
+}
+@media(max-width: 470px){
+    .information-section article{
+        margin-top: 50% !important;
+    }
+    .image-wrapper span{
+        font-size: 100% !important;
+        padding-left: 2%; 
+        width: 35%;
+    }
+    .box{
+        float: none;
+        display: block;
+        margin: 0 auto !important;
+        width: 80% !important;
+    }
+    .box h3{
+        text-align: center;
+    }
+    .box .image-grid{
+        padding-left: 5%;
+    }
+}
+@media(max-width: 500px){
+    .purchase-now section .btn_3d{
+        width: 48%;
+    }    
+}
+@media(max-width: 540px){
+    .portfolio .btn_3d{
+        width: 30% !important;
+    }
+}
+@media (max-width: 610px){
+    .information-section article{
+        margin-top: 45% !important;
+    }
+    .portfolio-grid article{
+        width: 60% !important;
+        float: none;
+        display: block;
+        margin: 6% auto;
+    }
+    .portfolio-grid{
+        padding-left: 0;
+    } 
+    .portfolio .btn_3d{
+        width: 30%; 
+    } 
+    .posts-section article{
+        float: none;
+        display: block;
+        margin: 6% auto;
+        width: 60% !important;
+    }
+    .posts-section article h5{
+        font-size: 100% !important;
+    }
+    .posts-section article p{
+        font-size: 70% !important;
+        width: 80% !important;
+    }  
+}
+@media (max-width: 700px){
+    .features article{
+        float: none;
+        margin: 5% auto;
+        width: 65%;
+    }
+    .features article p{
+        font-size: 80% !important;
+    }
+    .features article h4{
+        font-size: 140% !important;
+    }
+    .about-us h3{
+        font-size: 140%;
+    }   
+    .about-us p{
+        font-size: 80%;
+    }  
+    .categories-list li{
+        display: block;
+        margin: 8% auto;
+        text-align: center;
+    }
+    .categories-list li a{
+        padding: 2%;
+    }
+    .portfolio h3{
+        font-size: 180%;
+    }
+    .portfolio p{
+        width: 80%;
+    }
+    .partners-section .image-wrapper img{
+        max-width: 60% !important;
+        float: none !important;
+        display: block !important;
+        margin: 10% auto !important;
+    }   
+}
+@media(max-width: 750px){
+    .information-section article{
+        margin-top: 30%;
+    }
+    .box{
+        width: 40%;
+    }
+    .about-waxom{
+        margin-right: 14%;
+    }
+    .twitter{
+        margin-right: 14%;
+    }
+}
+@media(max-width: 807px){    
+    .search-cart-section input{
+        margin-top: 10%;
+    }
+    #logo{
+        width: 35%;       
+    }
+    .search-cart-section{
+        width: 25%;
+    }
+    .information-section h3{
+        font-size: 120% !important;
+    }
+    .information-section h2{
+        font-size: 140% !important;
+    }
+    .information-section p{
+        font-size: 80% !important;
+    }
+    .btn_3d{
+        font-size: 80%;
+    } 
+}
+@media (max-width: 820px){
+    .purchase-now section{
+        text-align: center;
+    }
+    .purchase-now section .btn_3d{
+        float: none;
+        display: block;
+        margin: 2% auto;
+        width: 40%;
+    }
+    .purchase-now section h1{
+        float: none;
+        display: block;
+        margin: 2% auto;
+    }
+    .purchase-now section h3{
+        float: none;
+        display: block;
+        margin: 2% auto;
+    }
+}
+@media (max-width: 875px){
+    .features article h4{
+        font-size: 80%;
+    }
+    .headings-container{
+        display: none;
+    }
+}
+@media(max-width: 900px){
+    .portfolio-grid article{
+        width: 45%;
+    }    
+    .portfolio .btn_3d{
+        width: 20%;
+    }
+    .posts-section article{
+        float: none;
+        display: block;
+        margin: 6% auto;
+        width: 50%;
+    }
+    .posts-section article h5{
+        font-size: 120%;
+    }
+    .posts-section article p{
+        font-size: 80%;
+        width: 80%;
+    }
+}
+@media(max-width: 950px){
+   .box h3{
+       font-size: 110%;
+   }
+}
+@media(max-width: 970px){    
+    .search-cart-section{
+        width: 30% !important;
+    }
+    .information-section h3{
+        font-size: 130% !important;
+    }
+    .information-section h2{
+        font-size: 140% !important;
+    }
+    .information-section p{
+        font-size: 90% !important;
+    }
+    .btn_3d{
+        font-size: 90%;
+    }
+}
+@media (max-width: 1100px){
+    .features article h4{
+        font-size: 80%;
+    }
+    .features article p{
+        font-size: 70%;
+    }
+    .categories-list li{
+        margin-left: 8%;
+        text-align: center;
+        padding: 2%;
+    }
+    .categories-list li a{
+        font-size: 50%;
+    }
+    .portfolio h3{
+        font-size: 180%;
+    }
+    .portfolio p{
+        width: 80%;
+    }    
+}
+@media (max-width: 1150px){
+    .image-wrapper span{
+        font-size: 140%;
+        padding-left: 1%; 
+    }
+}
+@media (max-width: 1250px){
+    .information-section article{
+        margin-top: 25%;
+    }
+    .categories-list li{
+        margin-left: 10%;
+        text-align: center;
+        padding: 2%;
+    }
+    .categories-list li a{
+        font-size: 50%;
+    }
+    .portfolio h3{
+        font-size: 180%;
+    }
+    .portfolio p{
+        width: 80%;
+    }
+}
+@media(max-width: 1310px){    
+    .links li{
+        float: none;
+        border: none;
+    }
+    .left{
+        text-align: left;
+    }   
+    .right{
+        text-align: right;
+    }
+    .links li a{
+        font-size: 80%;
+    }
+}
+@media(max-width: 1320px){    
+    .partners-section .image-wrapper img{
+        max-width: 20%;
+        float: left;
+        margin-right: 5%;
+    }
+}
+@media (max-width: 1342px){
+    .toggle{
+        display: block;
+        text-align: center;
+    }
+    .menu_{
+        width: 80%;
+        display: none;
+    } 
+    .main-navigation{
+        width: 100%;
+        margin: 0 auto;
+        display: block;
+    }   
+    .main-navigation ul li{
+        display: block;
+        float: none;
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 2%;
+    }
+    .active{
+        display: block;
+        width: 30%; 
+        margin: 0 auto;      
+    }
+    .search-cart-section{
+        width: 25%;
+    }     
+}
